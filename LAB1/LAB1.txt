@@ -1,6 +1,5 @@
 1. ให้นักศึกษาส่ง github link ปฏิบัติการที่ 1 ในกลุ่มไลน์ของรายวิชา โดยหัวหน้ารวบรวมเป็นไฟล์ xls (รหัสนักศึกษา, ชื่อ-สกุล, link)
-คำตอบ: https://github.com/PESAMGAMER/4134901-68
-
+คำตอบ: https://github.com/PATPRAME/PATPRAME-4134901-68
 
 
 2. ให้นักศึกษาเลือกระบบ Automation/Integration Platform as a Service (iPaaS) หรือ Low-code Platform อื่นๆ มา 1 ตัว และเปรียบเทียบข้อดีข้อเสียกับ n8n โดยเน้นที่การใช้งานแบบ Local
